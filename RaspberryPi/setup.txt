@@ -1,0 +1,6 @@
+# one time user setup
+user_id = XXXXXXXXXX42069
+tank_id = T0080085
+tank_name = RogueOne
+time_frame = 3000
+time_quantum = 30
